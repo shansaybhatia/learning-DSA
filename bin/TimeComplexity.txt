@@ -1,8 +1,0 @@
-Time Complexity (TC) is the rate at which time taken by an algorithm increases with the size of the input. It helps in analyzing the efficiency of algorithms and predicting their behavior for large inputs. Understanding time complexity is crucial for selecting the most appropriate algorithm for a given problem, especially when dealing with large datasets or performance-critical applications.
-
-Rules for Time Complexity:
-1. Focus on the worst-case scenario for algorithm analysis.
-2. Ignore constant factors and lower-order terms.
-3. Consider the input size as the primary factor affecting time complexity. i.e. avoid lower order terms and constant factors.
-It is commonly expressed using Big O notation, which classifies algorithms according to their worst-case or average-case performance.
-
